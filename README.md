@@ -3,6 +3,7 @@
 <i>
   
 <img align="right" height="250" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"></iframe></div><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 <br>
 <ul>
         <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
