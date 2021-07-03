@@ -2,7 +2,7 @@
 <i>I am a self taught <b>ML developer</b>.</i>
 <i>
   
-<img align="right" height="250" width="400" src="https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" />
+<img align="right" height="250" width="400" src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" />
 <br>
 <ul>
         <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
