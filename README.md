@@ -1,7 +1,7 @@
 ## Hi there, I am Shubham Sharma!<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
 ![visitors](https://komarev.com/ghpvc/?username=OfficialShubham)
 <br/>
-<i>I am a self taught <b>ML developer</b>.</i>
+<i>I am a self taught <b>Software developer</b>.</i>
 <i>
   
 <img align="right" height="250" width="400" src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" />
