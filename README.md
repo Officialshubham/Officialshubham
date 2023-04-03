@@ -44,7 +44,7 @@
 <div align="center">
 
 ## Follow Me At
-<a href="https://www.linkedin.com/in/ai-shubham/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ai-shubham/"><img height="32" width="32" src="https://gartman.com/wp-content/uploads/2020/08/57-571935_linkedin-icon-vector-png-linkedin-circle-logo-transparent-287x300.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Shubham39431337"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
