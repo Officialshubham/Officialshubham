@@ -23,7 +23,7 @@
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://www.aldakur.net/wp-content/uploads/2017/03/docker-logo-1024x914.png" />&nbsp;&nbsp;&nbsp;
 ![pytorchlogo](https://user-images.githubusercontent.com/42817026/124358206-e26ee900-dc3c-11eb-8d39-0a11d2baba67.png)
-<img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <div align="center">
 
