@@ -7,9 +7,9 @@
 <img align="right" height="250" width="400" src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" />
 <br>
 <ul>
-        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
-        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at Maharaja Surajmal Institute of Technology.</li>
-        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
+        <li>🔭 Software Engineer and ML Enthusiast.</li>
+        <li>💼 Currently persuing Masters in Machine Learning and Computer Vision from Australian National University.</li>
+        <li>🤔 Areas of Intrest: Software Engineering, Machine Learning, Computer Vision.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/ai-shubham/">LinkedIn</a>.</li>
         <li>⚡ Hobbies: I like to play badminton.</li>
