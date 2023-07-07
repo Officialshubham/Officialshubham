@@ -8,7 +8,7 @@
 <br>
 <ul>
         <li>🔭 Software Engineer and ML Enthusiast.</li>
-        <li>💼 Currently persuing Masters in Machine Learning and Computer Vision from Australian National University.</li>
+        <li>💼 Currently persuing Masters of Computing from Australian National University.</li>
         <li>🤔 Areas of Intrest: Software Engineering, Machine Learning, Computer Vision.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://www.linkedin.com/in/ai-shubham/">LinkedIn</a>.</li>
