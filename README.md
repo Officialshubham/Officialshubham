@@ -24,7 +24,20 @@
 <img height="60" width="60" src="https://www.aldakur.net/wp-content/uploads/2017/03/docker-logo-1024x914.png" />&nbsp;&nbsp;&nbsp;
 ![pytorchlogo](https://user-images.githubusercontent.com/42817026/124358206-e26ee900-dc3c-11eb-8d39-0a11d2baba67.png)
 &nbsp;&nbsp;&nbsp;
-
+![bootstrap](https://github.com/Officialshubham/Officialshubham/assets/42817026/9b235c39-e101-447b-be13-2aad0c53ba29)
+![d3](https://github.com/Officialshubham/Officialshubham/assets/42817026/6155bb97-4524-441b-9342-9585e5cf8d29)
+![css3](https://github.com/Officialshubham/Officialshubham/assets/42817026/076c60fb-eece-451c-9e0c-059b70b4407f)
+![cplus](https://github.com/Officialshubham/Officialshubham/assets/42817026/6f1e3889-0491-4161-9044-45688f254d91)
+![git](https://github.com/Officialshubham/Officialshubham/assets/42817026/14e78df4-154c-4ec2-ae33-58053c9958bb)
+![gstreamer-](https://github.com/Officialshubham/Officialshubham/assets/42817026/f4256fe9-6a4a-412e-9eec-91b82a56bb45)
+![html5](https://github.com/Officialshubham/Officialshubham/assets/42817026/77943221-07bc-44c3-96b9-a0a5801bbc60)
+![power-bi](https://github.com/Officialshubham/Officialshubham/assets/42817026/807c725f-163f-4505-9f75-8f1c3dc0fcad)
+![rust1](https://github.com/Officialshubham/Officialshubham/assets/42817026/7b1b5c3d-eb8a-4501-9e82-23d285b3d574)
+![webrtc](https://github.com/Officialshubham/Officialshubham/assets/42817026/8fb77d45-29
+![javascript](https://github.com/Officialshubham/Officialshubham/assets/42817026/d8fc769e-
+![java](https://github.com/Officialshubham/Officialshubham/assets/42817026/7d2bc47b-0aa6-4e6c-af6d-a70f9f96df0c)
+c7b1-42d0-b4e8-0e2958834553)
+a8-4aeb-9df2-69eededb55fb)
 <div align="center">
 
 ## Top Languages
