@@ -18,8 +18,8 @@
 
 ## Tools and Languages
 
-<img height="60" width="60" src="https://user-images.githubusercontent.com/42817026/124359029-c9683700-dc40-11eb-8219-a53ccad9c6b9.png" />&nbsp;&nbsp;&nbsp;
-<img height="60" width="60" src="https://user-images.githubusercontent.com/42817026/124359087-fe748980-dc40-11eb-80d3-24e50fd6afb5.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/3478ed24-e164-455d-9fc2-518f04787c4a" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/4698a19f-6ff8-41f2-a6e5-a95e2d22e3a2" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://www.aldakur.net/wp-content/uploads/2017/03/docker-logo-1024x914.png" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="80" src="https://user-images.githubusercontent.com/42817026/124358206-e26ee900-dc3c-11eb-8d39-0a11d2baba67.png" />&nbsp;&nbsp;&nbsp;
