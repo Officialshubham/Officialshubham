@@ -31,8 +31,8 @@
 <img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/f4256fe9-6a4a-412e-9eec-91b82a56bb45" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/77943221-07bc-44c3-96b9-a0a5801bbc60" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/807c725f-163f-4505-9f75-8f1c3dc0fcad" />&nbsp;&nbsp;&nbsp;
-<img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/7b1b5c3d-eb8a-4501-9e82-23d285b3d574" />&nbsp;&nbsp;&nbsp;
-<img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/7d2bc47b-0aa6-4e6c-af6d-a70f9f96df0c" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/60b90870-22a5-4deb-9a7c-69fdac94808e" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://github.com/Officialshubham/Officialshubham/assets/42817026/a45fbef6-5543-42ee-8fb0-b796e98b80a0" />&nbsp;&nbsp;&nbsp;
 
 <div align="center">
 
